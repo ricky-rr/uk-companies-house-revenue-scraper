@@ -7,7 +7,10 @@ Scrapes the following data:
 
 ## Usage/Examples
 
-Use excel (xlsx) to provide an import file which contains a list of company numbers on column A
+To get a list of company numbers use: 
+https://find-and-update.company-information.service.gov.uk/advanced-search
+
+Then use excel (xlsx) to provide an import file which contains a list of company numbers on column A
 
 ```PYTHON
 read_file = "/Users/FileLocation"
